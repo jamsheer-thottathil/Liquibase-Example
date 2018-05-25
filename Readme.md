@@ -1,4 +1,4 @@
-# Liquibase-Example
+# Liquibase - Example
 
 ##### Prerequisite
 

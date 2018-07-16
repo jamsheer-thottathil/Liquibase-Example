@@ -1,5 +1,7 @@
 # Liquibase - Example
 
+This is a sampple example of liquibase implementation
+
 ##### Prerequisite
 
   - Install java

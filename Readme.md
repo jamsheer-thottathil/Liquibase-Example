@@ -2,7 +2,7 @@
 
 This is a sampple example of liquibase implementation
 
-##### Prerequisite-
+###### Prerequisite-
 
   - Install java
   - Install maven
